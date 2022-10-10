@@ -1,8 +1,8 @@
 <?php
 
-$nombre = "Jaime García";
-$direccion = "C/ Falsa, 123";
-$numero = 696696969;
+$name = "Jaime García";
+$address = "C/ Falsa, 123";
+$number = 696696969;
 
 ?>
 
@@ -17,9 +17,9 @@ $numero = 696696969;
 </head>
 
 <body>
-    <p><?php echo $nombre; ?></p>
-    <p><?php echo $direccion; ?></p>
-    <p><?php echo $numero; ?></p>
+    <p><?php echo $name; ?></p>
+    <p><?php echo $address; ?></p>
+    <p><?php echo $number; ?></p>
 </body>
 
 </html>
