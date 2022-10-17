@@ -22,7 +22,6 @@
         echo "<p> x*y = {$operacion} </p>";
         $operacion = $x/$y;
         echo "<p> x/y = {$operacion} </p>";
-
     ?>
 </body>
 </html>
