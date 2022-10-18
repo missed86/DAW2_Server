@@ -7,17 +7,42 @@
     <title>UT02 - Tanda2 - Ejercicio 1</title>
 </head>
 <body>
-    <h1>Area de un rectangulo</h1>
+    <h2>Escribe un programa que pida por teclado un día de la semana y que diga qué asignatura toca a primera hora ese día.</h2>
     <form action="" method="post">
-        Alto: <input type="number" name="a" value="<?php if (isset($_POST['a'])) echo $_POST['a'] ?>">
-        Ancho: <input type="number" name="b" value="<?php if (isset($_POST['b'])) echo $_POST['b'] ?>">
-        <input type="submit" name="enviar" value="Calcula">
+        Día de la semana: <input type="text" name="a" value="<?php if (isset($_POST['a'])) echo $_POST['a'] ?>">
+        <input type="submit" name="enviar" value="Accion">
         <?php
-            if (isset($_POST['a']) && isset($_POST['a'])) {
-                $a = $_POST['a'];
-                $b = $_POST['b'];
+            if (isset($_POST['a'])) {
+                $dia_semana = $_POST['a'];
+                
+                switch (strtolower($dia_semana)) {
+                    case "lunes":
+                        $asig = "Empresa";
+                        break;
+                    case "martes":
+                        $asig = "Desarrollo Web Entorno Servidor";
+                        break;
+                    case "miercoles":
+                        $asig = "Desarrollo Web Entorno Servidor";
+                        break;
+                    case "jueves":
+                        $asig = "Inglés";
+                        break;
+                    case "viernes":
+                        $asig = "Inglés";
+                        break;
+                    case "sabado":
+                        $asig = "Es fin de semana! No hay clase!";
+                        break;
+                    case "domingo":
+                        $asig = "Es fin de semana! No hay clase!";
+                        break;
+                    default:
+                        $asig = "Error";
+                }
+
                 echo "<br><br>";
-                echo $a*$b." m<sup>2</sup>";
+                echo "El ".strtolower($dia_semana)." a primera hora tienes $asig";
                 
             }
         ?>

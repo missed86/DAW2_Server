@@ -14,7 +14,7 @@
         <input type="number" name="b" value="<?php if (isset($_POST['b'])) echo $_POST['b'] ?>">
         <input type="submit" name="enviar" value="Calcula">
         <?php
-            if (isset($_POST['a']) && isset($_POST['a'])) {
+            if (isset($_POST['a']) && isset($_POST['b'])) {
                 $a = $_POST['a'];
                 $b = $_POST['b'];
                 echo "<br>";
