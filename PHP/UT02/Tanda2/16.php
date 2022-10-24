@@ -18,9 +18,12 @@
             $a = strval($_POST['a']);
             $string = $a[strlen($a)-1];
 
+
             echo "<br><br>";
 
-            echo $string;
+            // echo $string;
+
+            echo $a%10;
         }
         ?>
     </form>

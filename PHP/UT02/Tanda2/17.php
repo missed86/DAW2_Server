@@ -17,7 +17,7 @@
         if (isset($_POST['a'])) {
 
             echo "<br><br>";
-            if($_POST['a']<=99999) {
+            if($_POST['a'] <= 99999) {
                 $a = strval($_POST['a']);
                 echo $a[0];
             }else {

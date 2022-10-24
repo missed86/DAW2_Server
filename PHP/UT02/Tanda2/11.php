@@ -11,14 +11,14 @@
 <body>
     <h2>Escribe un programa que dada una hora determinada (horas y minutos), calcule los segundos que faltan para llegar a la medianoche.</h2>
     <form action="" method="post">
-        <input type="number" name="a" autofocus value="<?php if (isset($_POST['a'])) echo $_POST['a'] ?>">:<input type="number" name="b" autofocus value="<?php if (isset($_POST['b'])) echo $_POST['b'] ?>"> = 0
+        <input type="number" name="a" autofocus value="<?php if (isset($_POST['a'])) echo $_POST['a'] ?>">:<input type="number" name="b" autofocus value="<?php if (isset($_POST['b'])) echo $_POST['b'] ?>">
         <input type="submit" name="enviar" value="Accion">
         <?php
         if (isset($_POST['a']) && isset($_POST['b'])) {
             $horas = $_POST['a'];
             $minutos = $_POST['b'];
 
-            $resultado = (((24-$horas)*60)+(60-$minutos))*60;
+            $resultado = (((23-$horas)*60*60)+(60-$minutos))*60;
             
             echo "<br><br>";
             
