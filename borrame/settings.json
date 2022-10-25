@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/jaime_daw/.local/share/virtualenvs/borrame-LyKLW03I/bin/python",
+    "python.analysis.extraPaths": ["app", "another/path/etc"]
+}
