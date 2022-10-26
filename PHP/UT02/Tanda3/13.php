@@ -37,7 +37,7 @@ if (isset($_GET['a'])) {
         ?>
         <form action="" method="GET">
             Introduce un número: <input type="number" name="a" autofocus value="">
-            <input type="hidden" name="array" value="<?php echo (isset($array_str)) ? $array_str : "" ?>">
+            <input type="hidden" name="array" value="<?= (isset($array_str)) ? $array_str : "" ?>">
             <input type="submit" name="enviar" value="Accion">
             <br><br>
         </form>
