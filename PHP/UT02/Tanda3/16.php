@@ -17,8 +17,8 @@
         if (isset($_POST['a'])) {
             $num = $_POST['a'];
             if ($num >= 2) {
+                $primo = true;
                 for ($i = 2; $i < $num; $i++) {
-                    $primo = true;
                     if ($num % $i == 0) {
                         $primo = false;
                         break;
