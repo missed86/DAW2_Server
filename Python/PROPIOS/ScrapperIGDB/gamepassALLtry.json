@@ -1,0 +1,3357 @@
+{
+	"Products": [
+		{
+			"LastModifiedDate": "2022-10-19T19:55:00.7089277Z",
+			"LocalizedProperties": [
+				{
+					"DeveloperName": "Hazelight",
+					"PublisherName": "Electronic Arts",
+					"PublisherWebsiteUri": "",
+					"SupportUri": "https://dlassets-ssl.xboxlive.com/public/content/430fdeae-3bac-43a8-9af5-5b12614fe9ed/GameManual/604357af-6b81-4706-9e21-a71ad26d806c/en-US/index.html",
+					"EligibilityProperties": {
+						"Remediations": [
+							{
+								"RemediationId": "9ZH7BH6P9RM7",
+								"Description": "Go Gold today to take advantage of exclusive Xbox discounts, special deals, and offers."
+							},
+							{
+								"RemediationId": "9N8KCDNKJJQ6",
+								"Description": "Better With EA Play"
+							}
+						],
+						"Affirmations": [
+							{
+								"AffirmationId": "B0HFJ7PW900M",
+								"AffirmationProductId": "CFQ7TTC0K5DH",
+								"Description": "Better With EA Play"
+							}
+						]
+					},
+					"Franchises": [],
+					"Images": [
+						{
+							"FileId": "2000000000039666350",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 4747966,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/0",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "MGSU6Yv2HAUybWfJYUCw2nmJ09kQdt4FwO3Vd5tnxcQ=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.25648.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.1220e2d9-c937-4430-b091-5f5d657db2fb",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666376",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 702625,
+							"ForegroundColor": "",
+							"Height": 800,
+							"ImagePositionInfo": "",
+							"ImagePurpose": "BrandedKeyArt",
+							"UnscaledImageSHA256Hash": "0mTxp0oXTS+zNYvs2wuJC3EGOTTn4rzLJC31Nq002ZU=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.25810.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.33e5fbf5-4998-42bc-9d21-32333943c393",
+							"Width": 584
+						},
+						{
+							"FileId": "2000000000039666378",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 2584490,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "",
+							"ImagePurpose": "TitledHeroArt",
+							"UnscaledImageSHA256Hash": "A1rOvCdI3+61MuXpIWkuivLbRyZzp+ZJanXA/dNqcNI=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.23043.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.a96604ea-f5e2-493b-8c3f-a47e6f283ddf",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666386",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 3469543,
+							"ForegroundColor": "",
+							"Height": 2160,
+							"ImagePositionInfo": "",
+							"ImagePurpose": "Poster",
+							"UnscaledImageSHA256Hash": "3eABRxMbxhTIeHywwzk6PNADViaD37YGAHYK3t6kPbQ=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.57565.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.88890908-dcdf-4b03-8e73-4a10af21f949",
+							"Width": 1440
+						},
+						{
+							"FileId": "2000000000039666387",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 1782383,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "",
+							"ImagePurpose": "SuperHeroArt",
+							"UnscaledImageSHA256Hash": "+uSe6ghqB/yd/reDJKQVV7TQrRFcuLa1whdcv/rJV/8=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.58618.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.9ce0ff98-b4a2-44b1-afc5-99b1a0757050",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666402",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 1824141,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "",
+							"ImagePurpose": "BoxArt",
+							"UnscaledImageSHA256Hash": "LftrKtB2TwJNqfa0UBxOm3G7wxHRbgd/P1iR2gPG6Hc=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.64301.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.99b24b6e-51c0-4188-b0b4-819d89c0ed73",
+							"Width": 1080
+						},
+						{
+							"FileId": "2000000000039666403",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 1769843,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "",
+							"ImagePurpose": "FeaturePromotionalSquareArt",
+							"UnscaledImageSHA256Hash": "51ZfoyUAWungh3FOG6nZ5+C/TIqz7DBU1gEAts6sLcw=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.22247.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.0028be0c-0062-406f-9d5d-c58f08433ae0",
+							"Width": 1080
+						},
+						{
+							"FileId": "2000000000039666006",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 4154289,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/1",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "XW4vYKyI6rpq3krnbZ5mC6uQxWq4BCr9Lp2IsROdNfs=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.28253.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.292232e3-7b4e-4419-9fcd-2a1a81e17eaa",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666344",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 3110336,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/2",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "7tCiVKeg4HFqMpSwt0IPHCa+bZokAaocqclbenIGBvc=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.53486.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.501665ea-3ab1-4f80-8760-0eacd7009573",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666008",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 4417908,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/3",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "SP0yLasZL55CCmrAlatyCdDy4jYp0WDXuv8QqYSA5pg=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.64840.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.83007f7f-a29e-4fe4-ba9a-06221a9fc859",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666346",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 1748101,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/4",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "wT6Tss3og2KAX8ZhLFFuilqPh5EwryBPHvzdDuFCGlQ=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.16065.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.bba7a56a-6551-40db-8a5a-32b155896cbe",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666370",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 2459315,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/5",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "/u/ZNFGFM5HhlQnewGUYvklEvDEaBa9Xbvi6hAJnw2o=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.61438.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.2c801169-2fd9-4676-b62f-70d34feee619",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666371",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 3103826,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/6",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "3Ng4hd/YaYyOUx76OpSEuAhC34Jr/DK23BLp7jQh3nE=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.55516.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.825ddf79-a1f0-42e3-b94a-e2f30b5936bf",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666372",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 4633282,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/7",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "fMmCIYi/OlFf20o0Z4gWXlUyHgyoiTwPqyByvqpwfZ4=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.51580.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.7cb22432-1706-4c25-b7a6-10af6377be51",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666304",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 3002006,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/8",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "9LK9BJtTbgob/DqOLIJlrEywmUrzbLvCC5ZFrF30+5g=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.45812.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.761e8627-b320-41e8-b4e1-55fe9e4cc705",
+							"Width": 1920
+						},
+						{
+							"FileId": "2000000000039666375",
+							"EISListingIdentifier": null,
+							"BackgroundColor": "",
+							"Caption": "",
+							"FileSizeInBytes": 3024639,
+							"ForegroundColor": "",
+							"Height": 1080,
+							"ImagePositionInfo": "Xbox/9",
+							"ImagePurpose": "Screenshot",
+							"UnscaledImageSHA256Hash": "DbjVAdWIPups6eFKwOJW0WkHxomcCwLtQnHYQXXHkuQ=",
+							"Uri": "//store-images.s-microsoft.com/image/apps.47117.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.5a278e82-12d6-4d7f-88c9-7fcfe2dbe3df",
+							"Width": 1920
+						}
+					],
+					"Videos": [
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/45cb1255-7ee2-40bd-8ad2-e86d8e1a067b/78a0d118-8dfe-4a18-994c-a2337cdc3473/78a0d118-8dfe-4a18-994c-a2337cdc3473.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out Official Game Trailer",
+							"FileSizeInBytes": 379447919,
+							"PreviewImage": {
+								"FileId": "2000000000039666755",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out Official Game Trailer",
+								"FileSizeInBytes": 1404598,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "6h9lSl/ZHM7pB4okBrgeG1v6NQv/eoBuNaT1mvrMPmU=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.8170.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.08c3d373-2618-4409-826c-23df9d41a055",
+								"Width": 1920
+							},
+							"TrailerId": "cd768d1d-6b41-166c-7fbf-ee09933edf8e",
+							"SortOrder": 1
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/8f748d58-a5ce-4792-8878-bac909e922bd/bd5aeef3-cc26-4643-a6dc-134e3911c326/bd5aeef3-cc26-4643-a6dc-134e3911c326.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out Official Reveal Trailer",
+							"FileSizeInBytes": 102013067,
+							"PreviewImage": {
+								"FileId": "2000000000039666757",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out Official Reveal Trailer",
+								"FileSizeInBytes": 3036119,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "ZiPRQWVPmYo0fI+JTkvr13HVFFJ7xarTcyAko47ckgc=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.9062.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.4db178e9-f575-49b6-b0f2-d797ed54ef77",
+								"Width": 1920
+							},
+							"TrailerId": "3650d3ca-8543-16af-e033-22211af2feb7",
+							"SortOrder": 2
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/ae94aff7-f7bc-440a-878c-272616f94d4f/8abc1dad-8afd-4cac-89d2-c1150bf5dfef/8abc1dad-8afd-4cac-89d2-c1150bf5dfef.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out - Meet Vincent and Leo",
+							"FileSizeInBytes": 154182687,
+							"PreviewImage": {
+								"FileId": "2000000000039666855",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out - Meet Vincent and Leo",
+								"FileSizeInBytes": 8299529,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "h6PtpiANsHdMrAI0A/utrmR3BoAVcGb5ogHwHLHSzFQ=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.41863.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.e9abdc5a-3c89-47cf-93d1-d292f86d1352",
+								"Width": 1920
+							},
+							"TrailerId": "9ea1d98f-7164-e5b5-cfff-2594bb466d65",
+							"SortOrder": 3
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/005ceb3e-a8a5-4f58-aee6-6af258134041/88677ad8-99ce-4a87-8699-2700e35653c5/88677ad8-99ce-4a87-8699-2700e35653c5.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out Official Reveal Trailer",
+							"FileSizeInBytes": 103827038,
+							"PreviewImage": {
+								"FileId": "2000000000039666842",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out Official Reveal Trailer",
+								"FileSizeInBytes": 3036119,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "ZiPRQWVPmYo0fI+JTkvr13HVFFJ7xarTcyAko47ckgc=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.9062.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.4db178e9-f575-49b6-b0f2-d797ed54ef77",
+								"Width": 1920
+							},
+							"TrailerId": "44b776d4-a854-01d7-92a7-b2d771d49fea",
+							"SortOrder": 4
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/18b0a7fd-01ac-444b-90cf-f43d5ab8bad4/c18fd90b-50c6-403e-b295-b1218b918e7f/c18fd90b-50c6-403e-b295-b1218b918e7f.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out Official Reveal Trailer",
+							"FileSizeInBytes": 103011082,
+							"PreviewImage": {
+								"FileId": "2000000000039666859",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out Official Reveal Trailer",
+								"FileSizeInBytes": 3036119,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "ZiPRQWVPmYo0fI+JTkvr13HVFFJ7xarTcyAko47ckgc=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.9062.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.4db178e9-f575-49b6-b0f2-d797ed54ef77",
+								"Width": 1920
+							},
+							"TrailerId": "92b84a86-511b-9a27-a45d-ea236252d4df",
+							"SortOrder": 5
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/9061d838-b2c2-4f12-ae91-98681d487d60/26f0eeec-4cea-4037-b445-f4fae88f2241/26f0eeec-4cea-4037-b445-f4fae88f2241.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out - Meet Vincent and Leo",
+							"FileSizeInBytes": 738496975,
+							"PreviewImage": {
+								"FileId": "2000000000039666843",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out - Meet Vincent and Leo",
+								"FileSizeInBytes": 8299529,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "h6PtpiANsHdMrAI0A/utrmR3BoAVcGb5ogHwHLHSzFQ=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.41863.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.e9abdc5a-3c89-47cf-93d1-d292f86d1352",
+								"Width": 1920
+							},
+							"TrailerId": "46e24e58-e2c6-64ab-2442-93c2539e9c17",
+							"SortOrder": 6
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/db2647e1-c9f9-441f-8053-1733e0517778/d9917e3d-a1f2-4733-8f4b-de2263fd2cbd/d9917e3d-a1f2-4733-8f4b-de2263fd2cbd.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out Official Game Trailer",
+							"FileSizeInBytes": 383093710,
+							"PreviewImage": {
+								"FileId": "2000000000039666900",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out Official Game Trailer",
+								"FileSizeInBytes": 1404598,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "6h9lSl/ZHM7pB4okBrgeG1v6NQv/eoBuNaT1mvrMPmU=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.8170.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.08c3d373-2618-4409-826c-23df9d41a055",
+								"Width": 1920
+							},
+							"TrailerId": "08b9819b-cec0-aac2-7c8f-7138bcb18c15",
+							"SortOrder": 7
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/31b5382d-4cca-4d93-b30a-ffe744d5c015/cd4f88e5-9a3d-4847-a28f-4b3a66138977/cd4f88e5-9a3d-4847-a28f-4b3a66138977.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out – Friends Join for Free",
+							"FileSizeInBytes": 163212972,
+							"PreviewImage": {
+								"FileId": "2000000000039666905",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out – Friends Join for Free",
+								"FileSizeInBytes": 2826616,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "xabGzY298sUi+Gloi07LxrMwpCNY50sge6mXrlRQKlg=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.42693.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.e4d5b6ce-b70e-4705-88e1-47dbc2932793",
+								"Width": 1920
+							},
+							"TrailerId": "0e90b6bb-da7b-c4e4-4f9d-7d70308d8b4f",
+							"SortOrder": 8
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/5bdd68f5-bd90-4725-9cc0-6c9b7e0df598/472e6e83-5c18-41a5-ab1b-7e807e3dcd1f/472e6e83-5c18-41a5-ab1b-7e807e3dcd1f.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out Official Game Trailer",
+							"FileSizeInBytes": 101488557,
+							"PreviewImage": {
+								"FileId": "2000000000039666910",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out Official Game Trailer",
+								"FileSizeInBytes": 1404598,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "6h9lSl/ZHM7pB4okBrgeG1v6NQv/eoBuNaT1mvrMPmU=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.8170.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.08c3d373-2618-4409-826c-23df9d41a055",
+								"Width": 1920
+							},
+							"TrailerId": "f4abee97-2941-4444-6fc3-e43c56921616",
+							"SortOrder": 9
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/52ceeac4-b65d-45d9-8d9b-dbc11383ce31/23e3b719-7d57-4cef-a053-fbb8d9bdc866/23e3b719-7d57-4cef-a053-fbb8d9bdc866.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out Official Game Trailer",
+							"FileSizeInBytes": 385302338,
+							"PreviewImage": {
+								"FileId": "2000000000039666921",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out Official Game Trailer",
+								"FileSizeInBytes": 1404598,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "6h9lSl/ZHM7pB4okBrgeG1v6NQv/eoBuNaT1mvrMPmU=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.8170.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.08c3d373-2618-4409-826c-23df9d41a055",
+								"Width": 1920
+							},
+							"TrailerId": "fedc637a-aabd-169e-f8eb-5c659e4c4cfb",
+							"SortOrder": 10
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/ec7307c4-d590-4e12-a44c-be5c23be2a0e/14fde471-17c6-4d6d-b551-7def6e7bd1ca/14fde471-17c6-4d6d-b551-7def6e7bd1ca.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out – Friends Join for Free",
+							"FileSizeInBytes": 162813736,
+							"PreviewImage": {
+								"FileId": "2000000000039666912",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out – Friends Join for Free",
+								"FileSizeInBytes": 2826616,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "xabGzY298sUi+Gloi07LxrMwpCNY50sge6mXrlRQKlg=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.42693.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.e4d5b6ce-b70e-4705-88e1-47dbc2932793",
+								"Width": 1920
+							},
+							"TrailerId": "43082d4c-28ee-b9e5-2b60-68bf6fcd1978",
+							"SortOrder": 11
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/281d23f1-333f-4fc6-9fae-c257cedcbfe7/aa7bddb4-31de-4bf8-9fca-96da61866ed3/aa7bddb4-31de-4bf8-9fca-96da61866ed3.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out - Meet Vincent and Leo",
+							"FileSizeInBytes": 731493531,
+							"PreviewImage": {
+								"FileId": "2000000000039666853",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out - Meet Vincent and Leo",
+								"FileSizeInBytes": 8299529,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "h6PtpiANsHdMrAI0A/utrmR3BoAVcGb5ogHwHLHSzFQ=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.41863.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.e9abdc5a-3c89-47cf-93d1-d292f86d1352",
+								"Width": 1920
+							},
+							"TrailerId": "fafa2ea7-7ffe-a07a-ed61-090920875079",
+							"SortOrder": 12
+						},
+						{
+							"Uri": "http://xbl-smooth.xboxlive.com/video/xdp/mp4/stereo/430fdeae-3bac-43a8-9af5-5b12614fe9ed/d5f84912-4a74-48e9-ae6f-b8c175650979/b25ae753-7376-4b5e-a3ec-dc4bc5970ee5/b25ae753-7376-4b5e-a3ec-dc4bc5970ee5.ism/manifest",
+							"VideoPurpose": "trailer",
+							"Height": 1080,
+							"Width": 1920,
+							"AudioEncoding": "AAC LC",
+							"VideoEncoding": "AVC",
+							"VideoPositionInfo": "Video/0",
+							"Caption": "A Way Out – Friends Join for Free",
+							"FileSizeInBytes": 49732923,
+							"PreviewImage": {
+								"FileId": "2000000000039666756",
+								"EISListingIdentifier": null,
+								"BackgroundColor": null,
+								"Caption": "A Way Out – Friends Join for Free",
+								"FileSizeInBytes": 2826616,
+								"ForegroundColor": null,
+								"Height": 1080,
+								"ImagePositionInfo": null,
+								"ImagePurpose": "trailer",
+								"UnscaledImageSHA256Hash": "xabGzY298sUi+Gloi07LxrMwpCNY50sge6mXrlRQKlg=",
+								"Uri": "//store-images.s-microsoft.com/image/apps.42693.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.e4d5b6ce-b70e-4705-88e1-47dbc2932793",
+								"Width": 1920
+							},
+							"TrailerId": "68f54662-3cc6-40f4-b380-c60528bc726a",
+							"SortOrder": 13
+						}
+					],
+					"ProductDescription": "From the creators of Brothers – A Tale of Two Sons comes A Way Out, an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.\nWhat begins as a thrilling breakout quickly turns into an unpredictable, emotional adventure unlike anything seen or played before. \nA Way Out is an experience that must be played with two players. Each player controls one of the main characters, Leo and Vincent, in a reluctant alliance to break out of prison and gain their freedom.\nPlay the entire experience with your friends for free using the friends pass free trial feature. When you purchase the full game, you can invite any of your friends online regardless of whether or not they’ve purchased the game.  From the in-game menu, send them an invite, they’ll unlock the Free Trial, and then you’re ready to play the entire experience together. \n\nConditions and restrictions apply. See www.ea.com/games/a-way-out/disclaimers for details.\n\nTHIS PRODUCT IS CO-OP ONLY. ONLINE CO-OP REQUIRES PERSISTENT INTERNET CONNECTION, EA ACCOUNT AND ONE ONLINE FRIEND WITH: A WAY OUT ON SAME PLATFORM, OR FRIENDS PASS FREE TRIAL INSTALLED.",
+					"ProductTitle": "A Way Out",
+					"ShortTitle": "A Way Out",
+					"SortTitle": "A Way Out",
+					"FriendlyTitle": null,
+					"ShortDescription": "A Way Out is an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.\r\nPlay the entire experience with your friends using the friends pass free trial feature.",
+					"SearchTitles": [
+						{
+							"SearchTitleString": "EA",
+							"SearchTitleType": "SearchHint"
+						},
+						{
+							"SearchTitleString": "Electronic Arts",
+							"SearchTitleType": "SearchHint"
+						},
+						{
+							"SearchTitleString": "A Way Out",
+							"SearchTitleType": "SearchHint"
+						},
+						{
+							"SearchTitleString": "EA Originals",
+							"SearchTitleType": "SearchHint"
+						},
+						{
+							"SearchTitleString": "Hazelight",
+							"SearchTitleType": "SearchHint"
+						},
+						{
+							"SearchTitleString": "Indie",
+							"SearchTitleType": "SearchHint"
+						},
+						{
+							"SearchTitleString": "Co-op",
+							"SearchTitleType": "SearchHint"
+						}
+					],
+					"VoiceTitle": "A Way Out",
+					"RenderGroupDetails": null,
+					"ProductDisplayRanks": [],
+					"InteractiveModelConfig": null,
+					"Interactive3DEnabled": false,
+					"Language": "en-us",
+					"Markets": [
+						"US",
+						"DZ",
+						"AR",
+						"AU",
+						"AT",
+						"BH",
+						"BD",
+						"BE",
+						"BR",
+						"BG",
+						"CA",
+						"CL",
+						"CN",
+						"CO",
+						"CR",
+						"HR",
+						"CY",
+						"CZ",
+						"DK",
+						"EG",
+						"EE",
+						"FI",
+						"FR",
+						"DE",
+						"GR",
+						"GT",
+						"HK",
+						"HU",
+						"IS",
+						"IN",
+						"ID",
+						"IQ",
+						"IE",
+						"IL",
+						"IT",
+						"JP",
+						"JO",
+						"KZ",
+						"KE",
+						"KW",
+						"LV",
+						"LB",
+						"LI",
+						"LT",
+						"LU",
+						"MY",
+						"MT",
+						"MR",
+						"MX",
+						"MA",
+						"NL",
+						"NZ",
+						"NG",
+						"NO",
+						"OM",
+						"PK",
+						"PE",
+						"PH",
+						"PL",
+						"PT",
+						"QA",
+						"RO",
+						"RU",
+						"SA",
+						"RS",
+						"SG",
+						"SK",
+						"SI",
+						"ZA",
+						"KR",
+						"ES",
+						"SE",
+						"CH",
+						"TW",
+						"TH",
+						"TT",
+						"TN",
+						"TR",
+						"UA",
+						"AE",
+						"GB",
+						"VN",
+						"YE",
+						"LY",
+						"LK",
+						"UY",
+						"VE",
+						"AF",
+						"AX",
+						"AL",
+						"AS",
+						"AO",
+						"AI",
+						"AQ",
+						"AG",
+						"AM",
+						"AW",
+						"BO",
+						"BQ",
+						"BA",
+						"BW",
+						"BV",
+						"IO",
+						"BN",
+						"BF",
+						"BI",
+						"KH",
+						"CM",
+						"CV",
+						"KY",
+						"CF",
+						"TD",
+						"TL",
+						"DJ",
+						"DM",
+						"DO",
+						"EC",
+						"SV",
+						"GQ",
+						"ER",
+						"ET",
+						"FK",
+						"FO",
+						"FJ",
+						"GF",
+						"PF",
+						"TF",
+						"GA",
+						"GM",
+						"GE",
+						"GH",
+						"GI",
+						"GL",
+						"GD",
+						"GP",
+						"GU",
+						"GG",
+						"GN",
+						"GW",
+						"GY",
+						"HT",
+						"HM",
+						"HN",
+						"AZ",
+						"BS",
+						"BB",
+						"BY",
+						"BZ",
+						"BJ",
+						"BM",
+						"BT",
+						"KM",
+						"CG",
+						"CD",
+						"CK",
+						"CX",
+						"CC",
+						"CI",
+						"CW",
+						"JM",
+						"SJ",
+						"JE",
+						"KI",
+						"KG",
+						"LA",
+						"LS",
+						"LR",
+						"MO",
+						"MK",
+						"MG",
+						"MW",
+						"IM",
+						"MH",
+						"MQ",
+						"MU",
+						"YT",
+						"FM",
+						"MD",
+						"MN",
+						"MS",
+						"MZ",
+						"MM",
+						"NA",
+						"NR",
+						"NP",
+						"MV",
+						"ML",
+						"NC",
+						"NI",
+						"NE",
+						"NU",
+						"NF",
+						"PW",
+						"PS",
+						"PA",
+						"PG",
+						"PY",
+						"RE",
+						"RW",
+						"BL",
+						"MF",
+						"WS",
+						"ST",
+						"SN",
+						"MP",
+						"PN",
+						"SX",
+						"SB",
+						"SO",
+						"SC",
+						"SL",
+						"GS",
+						"SH",
+						"KN",
+						"LC",
+						"PM",
+						"VC",
+						"TJ",
+						"TZ",
+						"TG",
+						"TK",
+						"TO",
+						"TM",
+						"TC",
+						"TV",
+						"UM",
+						"UG",
+						"VI",
+						"VG",
+						"WF",
+						"EH",
+						"ZM",
+						"ZW",
+						"UZ",
+						"VU",
+						"SR",
+						"SZ",
+						"AD",
+						"MC",
+						"SM",
+						"ME",
+						"VA",
+						"NEUTRAL"
+					]
+				}
+			],
+			"MarketProperties": [
+				{
+					"OriginalReleaseDate": "2018-03-23T00:00:00.0000000Z",
+					"MinimumUserAge": 16,
+					"ContentRatings": [
+						{
+							"RatingSystem": "ESRB",
+							"RatingId": "ESRB:M",
+							"RatingDescriptors": [
+								"ESRB:Nud",
+								"ESRB:Blo",
+								"ESRB:SexCon",
+								"ESRB:StrLan",
+								"ESRB:IntVio"
+							],
+							"RatingDisclaimers": [],
+							"InteractiveElements": ["ESRB:UseInt"]
+						},
+						{
+							"RatingSystem": "PEGI",
+							"RatingId": "PEGI:18",
+							"RatingDescriptors": ["PEGI:BadLan", "PEGI:Vio"],
+							"RatingDisclaimers": [],
+							"InteractiveElements": []
+						},
+						{
+							"RatingSystem": "DJCTQ",
+							"RatingId": "DJCTQ:16",
+							"RatingDescriptors": [],
+							"RatingDisclaimers": [],
+							"InteractiveElements": []
+						},
+						{
+							"RatingSystem": "USK",
+							"RatingId": "USK:18",
+							"RatingDescriptors": [],
+							"RatingDisclaimers": [],
+							"InteractiveElements": []
+						},
+						{
+							"RatingSystem": "IARC",
+							"RatingId": "IARC:18",
+							"RatingDescriptors": ["IARC:ExtVio", "IARC:StrLan"],
+							"RatingDisclaimers": [],
+							"InteractiveElements": ["IARC:UseInt"]
+						},
+						{
+							"RatingSystem": "COB-AU",
+							"RatingId": "COB-AU:MA",
+							"RatingDescriptors": [
+								"COB-AU:StrVio",
+								"COB-AU:SexRef",
+								"COB-AU:CoaLan"
+							],
+							"RatingDisclaimers": ["COB-AU:OnlAct"],
+							"InteractiveElements": []
+						},
+						{
+							"RatingSystem": "GRB",
+							"RatingId": "GRB:18",
+							"RatingDescriptors": [],
+							"RatingDisclaimers": [],
+							"InteractiveElements": []
+						},
+						{
+							"RatingSystem": "PCBP",
+							"RatingId": "PCBP:18",
+							"RatingDescriptors": [],
+							"RatingDisclaimers": [],
+							"InteractiveElements": []
+						},
+						{
+							"RatingSystem": "CSRR",
+							"RatingId": "CSRR:R",
+							"RatingDescriptors": [],
+							"RatingDisclaimers": [],
+							"InteractiveElements": []
+						},
+						{
+							"RatingSystem": "Microsoft",
+							"RatingId": "Microsoft:16",
+							"RatingDescriptors": [],
+							"RatingDisclaimers": [],
+							"InteractiveElements": []
+						},
+						{
+							"RatingSystem": "OFLC-NZ",
+							"RatingId": "OFLC-NZ:R16",
+							"RatingDescriptors": [
+								"OFLC-NZ:Cru",
+								"OFLC-NZ:OffLan",
+								"OFLC-NZ:Vio"
+							],
+							"RatingDisclaimers": [],
+							"InteractiveElements": []
+						},
+						{
+							"RatingSystem": "CCC",
+							"RatingId": "CCC:18",
+							"RatingDescriptors": [],
+							"RatingDisclaimers": [],
+							"InteractiveElements": []
+						}
+					],
+					"RelatedProducts": [
+						{
+							"RelatedProductId": "9NBLGGH40D9R",
+							"RelationshipType": "SellableBy"
+						},
+						{
+							"RelatedProductId": "9VWGNH0VBZRD",
+							"RelationshipType": "SellableBy"
+						},
+						{
+							"RelatedProductId": "BRRL5WM8RBSX",
+							"RelationshipType": "Bundle"
+						},
+						{
+							"RelatedProductId": "9NSHWS6N4C08",
+							"RelationshipType": "Bundle"
+						}
+					],
+					"UsageData": [
+						{
+							"AggregateTimeSpan": "7Days",
+							"AverageRating": 4.8,
+							"PlayCount": 0,
+							"RatingCount": 48,
+							"RentalCount": "0",
+							"TrialCount": "0",
+							"PurchaseCount": "0"
+						},
+						{
+							"AggregateTimeSpan": "30Days",
+							"AverageRating": 4.6,
+							"PlayCount": 0,
+							"RatingCount": 194,
+							"RentalCount": "0",
+							"TrialCount": "0",
+							"PurchaseCount": "0"
+						},
+						{
+							"AggregateTimeSpan": "AllTime",
+							"AverageRating": 4.6,
+							"PlayCount": 0,
+							"RatingCount": 17619,
+							"RentalCount": "0",
+							"TrialCount": "0",
+							"PurchaseCount": "0"
+						}
+					],
+					"BundleConfig": null,
+					"Markets": ["US"]
+				}
+			],
+			"ProductASchema": "Product;3",
+			"ProductBSchema": "ProductGame;1",
+			"ProductId": "BWVBNCMF22ZK",
+			"Properties": {
+				"Attributes": [
+					{
+						"Name": "XblLocalCoop",
+						"Minimum": 2,
+						"Maximum": 2,
+						"ApplicablePlatforms": null,
+						"Group": null
+					},
+					{
+						"Name": "XblOnlineCoop",
+						"Minimum": 2,
+						"Maximum": 2,
+						"ApplicablePlatforms": null,
+						"Group": null
+					},
+					{
+						"Name": "XblLocalMultiPlayer",
+						"Minimum": 2,
+						"Maximum": 2,
+						"ApplicablePlatforms": null,
+						"Group": null
+					},
+					{
+						"Name": "XblOnlineMultiPlayer",
+						"Minimum": 2,
+						"Maximum": 2,
+						"ApplicablePlatforms": null,
+						"Group": null
+					},
+					{
+						"Name": "BroadcastSupport",
+						"Minimum": null,
+						"Maximum": null,
+						"ApplicablePlatforms": null,
+						"Group": null
+					},
+					{
+						"Name": "SharedSplitScreen",
+						"Minimum": null,
+						"Maximum": null,
+						"ApplicablePlatforms": ["Xbox"],
+						"Group": null
+					},
+					{
+						"Name": "CapabilityXboxEnhanced",
+						"Minimum": null,
+						"Maximum": null,
+						"ApplicablePlatforms": null,
+						"Group": null
+					},
+					{
+						"Name": "XboxLive",
+						"Minimum": null,
+						"Maximum": null,
+						"ApplicablePlatforms": null,
+						"Group": null
+					}
+				],
+				"CanInstallToSDCard": true,
+				"Category": "Action & adventure",
+				"Categories": ["Action & adventure"],
+				"Subcategory": null,
+				"IsAccessible": false,
+				"IsDemo": false,
+				"IsLineOfBusinessApp": false,
+				"IsPublishedToLegacyWindowsPhoneStore": false,
+				"IsPublishedToLegacyWindowsStore": false,
+				"PackageFamilyName": "ElectronicArtsMobile.AWayOut_q5ha1ztykcgvj",
+				"PackageIdentityName": "ElectronicArtsMobile.AWayOut",
+				"PublisherCertificateName": "CN=EA1FCDC7-83D5-44EB-B5A8-551CCAC09A11",
+				"PublisherId": "10100990",
+				"SkuDisplayGroups": [
+					{
+						"Id": "01",
+						"Treatment": "MergeAvailabilities"
+					}
+				],
+				"XboxLiveTier": "Full",
+				"XboxXPA": null,
+				"XboxCrossGenSetId": null,
+				"XboxConsoleGenOptimized": ["ConsoleGen8"],
+				"XboxConsoleGenCompatible": ["ConsoleGen8", "ConsoleGen9"],
+				"XboxLiveGoldRequired": false,
+				"ExtendedMetadata": "BWVBNCMF22ZK_3a5dc4cb-f417-447f-a2a5-ecdc1fc029c4",
+				"XBOX": null,
+				"OwnershipType": null,
+				"PdpBackgroundColor": "#FFFFFF",
+				"HasAddOns": false,
+				"RevisionId": "2022-10-19T19:56:15.1172954Z",
+				"ProductGroupId": "0784513f-05f8-476f-93e5-8cde697fab08",
+				"ProductGroupName": "A Way Out"
+			},
+			"AlternateIds": [
+				{
+					"IdType": "LegacyWindowsStoreProductId",
+					"Value": "8a27f602-32a9-473e-8343-baf80ee71306"
+				},
+				{
+					"IdType": "LegacyWindowsPhoneProductId",
+					"Value": "06f62803-fd80-4634-b5b8-0e3a82443344"
+				},
+				{
+					"IdType": "XboxTitleId",
+					"Value": "869175187"
+				},
+				{
+					"IdType": "LegacyXboxProductId",
+					"Value": "430fdeae-3bac-43a8-9af5-5b12614fe9ed"
+				}
+			],
+			"DomainDataVersion": null,
+			"IngestionSource": "DCE",
+			"IsMicrosoftProduct": false,
+			"PreferredSkuId": "0001",
+			"ProductType": "Game",
+			"ValidationData": {
+				"PassedValidation": false,
+				"RevisionId": "2022-10-19T19:56:15.1172954Z||.||fff830e0-8078-46b2-9458-3ae639114a9d||1152921505694370294||RETAIL||fullrelease",
+				"ValidationResultUri": ""
+			},
+			"MerchandizingTags": [],
+			"PartD": "",
+			"SandboxId": "RETAIL",
+			"ProductFamily": "Games",
+			"SchemaVersion": "3",
+			"IsSandboxedProduct": true,
+			"ProductKind": "Game",
+			"ProductPolicies": {},
+			"DisplaySkuAvailabilities": [
+				{
+					"Sku": {
+						"LastModifiedDate": "2022-10-19T19:55:00.7089277Z",
+						"LocalizedProperties": [
+							{
+								"Contributors": [],
+								"Features": [],
+								"MinimumNotes": "",
+								"RecommendedNotes": "",
+								"ReleaseNotes": "",
+								"DisplayPlatformProperties": null,
+								"SkuDescription": "From the creators of Brothers – A Tale of Two Sons comes A Way Out, an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.\nWhat begins as a thrilling breakout quickly turns into an unpredictable, emotional adventure unlike anything seen or played before. \nA Way Out is an experience that must be played with two players. Each player controls one of the main characters, Leo and Vincent, in a reluctant alliance to break out of prison and gain their freedom.\nPlay the entire experience with your friends for free using the friends pass free trial feature. When you purchase the full game, you can invite any of your friends online regardless of whether or not they’ve purchased the game.  From the in-game menu, send them an invite, they’ll unlock the Free Trial, and then you’re ready to play the entire experience together. \n\nConditions and restrictions apply. See www.ea.com/games/a-way-out/disclaimers for details.\n\nTHIS PRODUCT IS CO-OP ONLY. ONLINE CO-OP REQUIRES PERSISTENT INTERNET CONNECTION, EA ACCOUNT AND ONE ONLINE FRIEND WITH: A WAY OUT ON SAME PLATFORM, OR FRIENDS PASS FREE TRIAL INSTALLED.",
+								"SkuTitle": "A Way Out",
+								"SkuButtonTitle": "",
+								"DeliveryDateOverlay": null,
+								"SkuDisplayRank": [],
+								"TextResources": null,
+								"Images": [],
+								"LegalText": {
+									"AdditionalLicenseTerms": "",
+									"Copyright": "",
+									"CopyrightUri": "",
+									"PrivacyPolicy": "",
+									"PrivacyPolicyUri": "https://www.ea.com/legal/privacy-policy ",
+									"Tou": "",
+									"TouUri": ""
+								},
+								"Language": "en-us",
+								"Markets": [
+									"US",
+									"DZ",
+									"AR",
+									"AU",
+									"AT",
+									"BH",
+									"BD",
+									"BE",
+									"BR",
+									"BG",
+									"CA",
+									"CL",
+									"CN",
+									"CO",
+									"CR",
+									"HR",
+									"CY",
+									"CZ",
+									"DK",
+									"EG",
+									"EE",
+									"FI",
+									"FR",
+									"DE",
+									"GR",
+									"GT",
+									"HK",
+									"HU",
+									"IS",
+									"IN",
+									"ID",
+									"IQ",
+									"IE",
+									"IL",
+									"IT",
+									"JP",
+									"JO",
+									"KZ",
+									"KE",
+									"KW",
+									"LV",
+									"LB",
+									"LI",
+									"LT",
+									"LU",
+									"MY",
+									"MT",
+									"MR",
+									"MX",
+									"MA",
+									"NL",
+									"NZ",
+									"NG",
+									"NO",
+									"OM",
+									"PK",
+									"PE",
+									"PH",
+									"PL",
+									"PT",
+									"QA",
+									"RO",
+									"RU",
+									"SA",
+									"RS",
+									"SG",
+									"SK",
+									"SI",
+									"ZA",
+									"KR",
+									"ES",
+									"SE",
+									"CH",
+									"TW",
+									"TH",
+									"TT",
+									"TN",
+									"TR",
+									"UA",
+									"AE",
+									"GB",
+									"VN",
+									"YE",
+									"LY",
+									"LK",
+									"UY",
+									"VE",
+									"AF",
+									"AX",
+									"AL",
+									"AS",
+									"AO",
+									"AI",
+									"AQ",
+									"AG",
+									"AM",
+									"AW",
+									"BO",
+									"BQ",
+									"BA",
+									"BW",
+									"BV",
+									"IO",
+									"BN",
+									"BF",
+									"BI",
+									"KH",
+									"CM",
+									"CV",
+									"KY",
+									"CF",
+									"TD",
+									"TL",
+									"DJ",
+									"DM",
+									"DO",
+									"EC",
+									"SV",
+									"GQ",
+									"ER",
+									"ET",
+									"FK",
+									"FO",
+									"FJ",
+									"GF",
+									"PF",
+									"TF",
+									"GA",
+									"GM",
+									"GE",
+									"GH",
+									"GI",
+									"GL",
+									"GD",
+									"GP",
+									"GU",
+									"GG",
+									"GN",
+									"GW",
+									"GY",
+									"HT",
+									"HM",
+									"HN",
+									"AZ",
+									"BS",
+									"BB",
+									"BY",
+									"BZ",
+									"BJ",
+									"BM",
+									"BT",
+									"KM",
+									"CG",
+									"CD",
+									"CK",
+									"CX",
+									"CC",
+									"CI",
+									"CW",
+									"JM",
+									"SJ",
+									"JE",
+									"KI",
+									"KG",
+									"LA",
+									"LS",
+									"LR",
+									"MO",
+									"MK",
+									"MG",
+									"MW",
+									"IM",
+									"MH",
+									"MQ",
+									"MU",
+									"YT",
+									"FM",
+									"MD",
+									"MN",
+									"MS",
+									"MZ",
+									"MM",
+									"NA",
+									"NR",
+									"NP",
+									"MV",
+									"ML",
+									"NC",
+									"NI",
+									"NE",
+									"NU",
+									"NF",
+									"PW",
+									"PS",
+									"PA",
+									"PG",
+									"PY",
+									"RE",
+									"RW",
+									"BL",
+									"MF",
+									"WS",
+									"ST",
+									"SN",
+									"MP",
+									"PN",
+									"SX",
+									"SB",
+									"SO",
+									"SC",
+									"SL",
+									"GS",
+									"SH",
+									"KN",
+									"LC",
+									"PM",
+									"VC",
+									"TJ",
+									"TZ",
+									"TG",
+									"TK",
+									"TO",
+									"TM",
+									"TC",
+									"TV",
+									"UM",
+									"UG",
+									"VI",
+									"VG",
+									"WF",
+									"EH",
+									"ZM",
+									"ZW",
+									"UZ",
+									"VU",
+									"SR",
+									"SZ",
+									"AD",
+									"MC",
+									"SM",
+									"ME",
+									"VA",
+									"NEUTRAL"
+								]
+							}
+						],
+						"MarketProperties": [
+							{
+								"FirstAvailableDate": "2018-03-23T00:00:00.0000000Z",
+								"SupportedLanguages": [
+									"en-us",
+									"da",
+									"tr",
+									"pl",
+									"sv",
+									"zh",
+									"ja",
+									"it",
+									"nb",
+									"en",
+									"es",
+									"ar",
+									"es-mx",
+									"pt",
+									"ko",
+									"fr-ca",
+									"ru",
+									"zh-cn",
+									"nl",
+									"fr",
+									"pt-br",
+									"fi",
+									"de"
+								],
+								"PackageIds": null,
+								"PIFilter": null,
+								"Markets": ["US"]
+							}
+						],
+						"ProductId": "BWVBNCMF22ZK",
+						"Properties": {
+							"EarlyAdopterEnrollmentUrl": null,
+							"FulfillmentData": {
+								"ProductId": "BWVBNCMF22ZK",
+								"WuBundleId": "6057e27d-970c-435e-bedf-b65a9cc11974",
+								"WuCategoryId": "67828f56-9fe6-45df-ac7c-072be90f6989",
+								"PackageFamilyName": "ElectronicArtsMobile.AWayOut_q5ha1ztykcgvj",
+								"SkuId": "0001",
+								"Content": null,
+								"PackageFeatures": null
+							},
+							"FulfillmentType": "XVC",
+							"FulfillmentPluginId": null,
+							"HasThirdPartyIAPs": false,
+							"LastUpdateDate": "2022-10-19T19:55:00.0000000Z",
+							"HardwareProperties": {
+								"MinimumHardware": [],
+								"RecommendedHardware": [],
+								"MinimumProcessor": "",
+								"RecommendedProcessor": "",
+								"MinimumGraphics": "",
+								"RecommendedGraphics": ""
+							},
+							"HardwareRequirements": [],
+							"HardwareWarningList": [],
+							"InstallationTerms": "InstallationTermsRestrictiveXbox",
+							"Packages": [
+								{
+									"Applications": [],
+									"Architectures": ["x64"],
+									"Capabilities": [],
+									"DeviceCapabilities": [],
+									"ExperienceIds": [],
+									"FrameworkDependencies": [],
+									"HardwareDependencies": [],
+									"HardwareRequirements": [],
+									"Hash": "",
+									"HashAlgorithm": "",
+									"IsStreamingApp": false,
+									"Languages": [],
+									"MaxDownloadSizeInBytes": 18723897344,
+									"MaxInstallSizeInBytes": 0,
+									"PackageFormat": "XVC",
+									"PackageFamilyName": null,
+									"MainPackageFamilyNameForDlc": null,
+									"PackageFullName": "",
+									"PackageId": "51240842-cf3a-49f5-92d4-38929702b008",
+									"ContentId": "51240842-cf3a-49f5-92d4-38929702b008",
+									"KeyId": "2dd52a14-d343-4de9-b484-af291633db3a",
+									"PackageRank": 50000,
+									"PackageUri": "https://productingestionbin1.blob.core.windows.net",
+									"PlatformDependencies": [
+										{
+											"MaxTested": 0,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									],
+									"PlatformDependencyXmlBlob": "",
+									"ResourceId": "",
+									"Version": "0",
+									"PackageDownloadUris": [
+										{
+											"Rank": 0,
+											"Uri": "https://productingestionbin1.blob.core.windows.net"
+										},
+										{
+											"Rank": 1,
+											"Uri": "https://productingestionbin1.blob.core.windows.net"
+										}
+									],
+									"DriverDependencies": [],
+									"FulfillmentData": {
+										"ProductId": "BWVBNCMF22ZK",
+										"WuBundleId": "6057e27d-970c-435e-bedf-b65a9cc11974",
+										"WuCategoryId": "67828f56-9fe6-45df-ac7c-072be90f6989",
+										"PackageFamilyName": "ElectronicArtsMobile.AWayOut_q5ha1ztykcgvj",
+										"SkuId": "0001",
+										"Content": null,
+										"PackageFeatures": null
+									}
+								}
+							],
+							"VersionString": "",
+							"SkuDisplayGroupIds": ["01"],
+							"XboxXPA": false,
+							"BundledSkus": [],
+							"IsRepurchasable": false,
+							"SkuDisplayRank": 0,
+							"DisplayPhysicalStoreInventory": null,
+							"VisibleToB2BServiceIds": [],
+							"AdditionalIdentifiers": [],
+							"IsTrial": false,
+							"IsPreOrder": false,
+							"IsBundle": false
+						},
+						"SkuASchema": "Sku;3",
+						"SkuBSchema": "SkuGame;1",
+						"SkuId": "0001",
+						"SkuType": "full",
+						"RecurrencePolicy": null,
+						"SubscriptionPolicyId": null
+					},
+					"Availabilities": [
+						{
+							"Actions": [
+								"Details",
+								"Fulfill",
+								"Purchase",
+								"Browse",
+								"Curate",
+								"Redeem"
+							],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9MZ00PVB2296",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "2022-11-16T19:59:59.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2022-11-01T10:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"PIFilter": {
+									"ExclusionProperties": ["xboxonlycontent"],
+									"InclusionProperties": [
+										"legacy:Tokens",
+										"legacy:CurrencyStoredValue",
+										"legacy:CreditCard",
+										"legacy:CurrencyStoredValueWithCreditCardTopOff",
+										"legacy:PayPal"
+									]
+								},
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": true,
+									"ListPrice": 29.99,
+									"MSRP": 29.99,
+									"TaxType": "TaxesNotIncluded",
+									"WholesaleCurrencyCode": "USD",
+									"WholesalePrice": 20.99
+								}
+							},
+							"Properties": {
+								"OriginalReleaseDate": "2018-03-23T00:00:00.0000000Z"
+							},
+							"SkuId": "0001",
+							"DisplayRank": 0,
+							"AlternateIds": [
+								{
+									"IdType": "LegacyTokenIdentifier",
+									"Value": "430fdeae-3bac-43a8-9af5-5b12614fe9ed"
+								}
+							],
+							"RemediationRequired": false
+						},
+						{
+							"Actions": ["Details", "Purchase", "Curate"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9SCLNV5BFDRQ",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "2022-11-16T19:59:59.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2022-11-01T10:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"PIFilter": {
+									"ExclusionProperties": [],
+									"InclusionProperties": []
+								},
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "TaxesNotIncluded",
+									"WholesaleCurrencyCode": "USD",
+									"WholesalePrice": 0
+								}
+							},
+							"Properties": {
+								"OriginalReleaseDate": "2018-03-23T00:00:00.0000000Z",
+								"MerchandisingTags": ["LegacyVault"]
+							},
+							"SkuId": "0001",
+							"DisplayRank": 1,
+							"RemediationRequired": true,
+							"Remediations": [
+								{
+									"RemediationId": "9N8KCDNKJJQ6",
+									"Type": "Upsell",
+									"BigId": "CFQ7TTC0K5DH"
+								}
+							]
+						},
+						{
+							"Actions": ["Details", "Fulfill", "Browse", "Curate", "Gift"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9V5186T5DC7H",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "2022-11-16T19:59:59.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2022-11-01T10:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"PIFilter": {
+									"ExclusionProperties": ["xboxonlycontent"],
+									"InclusionProperties": [
+										"legacy:Tokens",
+										"legacy:CurrencyStoredValue",
+										"legacy:CreditCard",
+										"legacy:CurrencyStoredValueWithCreditCardTopOff",
+										"legacy:PayPal"
+									]
+								},
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": true,
+									"ListPrice": 29.99,
+									"MSRP": 29.99,
+									"TaxType": "TaxesNotIncluded",
+									"WholesaleCurrencyCode": "USD",
+									"WholesalePrice": 20.99
+								},
+								"OrderManagementPolicyIdOverride": "microsoft.mint.token",
+								"GeofencingPolicyId": "GIFTGEO:US"
+							},
+							"Properties": {
+								"OriginalReleaseDate": "2018-03-23T00:00:00.0000000Z"
+							},
+							"SkuId": "0001",
+							"DisplayRank": 2,
+							"AlternateIds": [],
+							"RemediationRequired": false
+						},
+						{
+							"Actions": ["License", "Browse", "Details"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9NN3314NPGRM",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "2022-11-16T19:59:59.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2022-11-01T10:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"LicensingData": {
+								"SatisfyingEntitlementKeys": [
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:06f62803-fd80-4634-b5b8-0e3a82443344:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:8a27f602-32a9-473e-8343-baf80ee71306:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Presale"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									}
+								]
+							},
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {},
+							"SkuId": "0001",
+							"DisplayRank": 3,
+							"AlternateIds": [
+								{
+									"IdType": "LegacyTokenIdentifier",
+									"Value": "430fdeae-3bac-43a8-9af5-5b12614fe9ed"
+								}
+							],
+							"RemediationRequired": false
+						},
+						{
+							"Actions": ["License", "Browse", "Details"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9SCK7CF35ZFW",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "2022-11-16T19:59:59.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2022-11-01T10:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"LicensingData": {
+								"SatisfyingEntitlementKeys": [
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:06f62803-fd80-4634-b5b8-0e3a82443344:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:8a27f602-32a9-473e-8343-baf80ee71306:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Presale"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									}
+								]
+							},
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {
+								"MerchandisingTags": ["LegacyDiscountEAAccess"]
+							},
+							"SkuId": "0001",
+							"AffirmationId": "B0HFJ7PW900M",
+							"DisplayRank": 4,
+							"RemediationRequired": false
+						},
+						{
+							"Actions": ["License", "Browse", "Details"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "B51P5H31SBMH",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "2022-11-16T20:00:00.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2022-11-01T10:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"LicensingData": {
+								"SatisfyingEntitlementKeys": [
+									{
+										"EntitlementKeys": ["big:CFQ7TTC0K5DH:0006"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:Subscription:6baa7937-295f-4497-9b8b-8f766f20e78f:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:06f62803-fd80-4634-b5b8-0e3a82443344:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:8a27f602-32a9-473e-8343-baf80ee71306:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Presale"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									}
+								]
+							},
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {
+								"MerchandisingTags": ["LegacyVault"]
+							},
+							"SkuId": "0001",
+							"AffirmationId": "B0HFJ7PW900M",
+							"DisplayRank": 5,
+							"RemediationRequired": false
+						},
+						{
+							"Actions": ["License", "Browse", "Details"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9TZ4G2V95N1B",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "2022-11-16T20:00:00.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2022-11-01T10:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"LicensingData": {
+								"SatisfyingEntitlementKeys": [
+									{
+										"EntitlementKeys": ["big:BRRL5WM8RBSX:0003"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BRRL5WM8RBSX:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:ee2b5d76-099f-4fee-8080-b6c6b6c39024:Presale"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:ee2b5d76-099f-4fee-8080-b6c6b6c39024:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameContent:ee2b5d76-099f-4fee-8080-b6c6b6c39024:Presale"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameContent:ee2b5d76-099f-4fee-8080-b6c6b6c39024:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:06f62803-fd80-4634-b5b8-0e3a82443344:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:8a27f602-32a9-473e-8343-baf80ee71306:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Presale"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									}
+								]
+							},
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {},
+							"SkuId": "0001",
+							"DisplayRank": 6,
+							"RemediationRequired": false
+						},
+						{
+							"Actions": ["License", "Browse", "Details"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9V52FS7P2PZN",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "2022-11-16T20:00:00.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2022-11-01T10:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"LicensingData": {
+								"SatisfyingEntitlementKeys": [
+									{
+										"EntitlementKeys": ["big:9NSHWS6N4C08:0017"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:9NSHWS6N4C08:0010"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:06f62803-fd80-4634-b5b8-0e3a82443344:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:8a27f602-32a9-473e-8343-baf80ee71306:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Presale"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									}
+								]
+							},
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {},
+							"SkuId": "0001",
+							"DisplayRank": 7,
+							"RemediationRequired": false
+						},
+						{
+							"Actions": ["License", "Details"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9V0C946HFH7B",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Desktop"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Mobile"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Team"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Holographic"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.8828080"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Core"
+										}
+									]
+								},
+								"EndDate": "9998-12-30T00:00:00.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "1753-01-01T00:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"LicensingData": {
+								"SatisfyingEntitlementKeys": [
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:06f62803-fd80-4634-b5b8-0e3a82443344:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"wes:App:8a27f602-32a9-473e-8343-baf80ee71306:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Full"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": [
+											"xbx:GameV2:430fdeae-3bac-43a8-9af5-5b12614fe9ed:Presale"
+										],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0001"],
+										"LicensingKeyIds": ["1"]
+									},
+									{
+										"EntitlementKeys": ["big:BWVBNCMF22ZK:0003"],
+										"LicensingKeyIds": ["1"]
+									}
+								]
+							},
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {},
+							"SkuId": "0001",
+							"DisplayRank": 8,
+							"RemediationRequired": false
+						}
+					]
+				},
+				{
+					"Sku": {
+						"LastModifiedDate": "2022-10-19T19:55:00.7089277Z",
+						"LocalizedProperties": [
+							{
+								"Contributors": [],
+								"Features": [],
+								"MinimumNotes": "",
+								"RecommendedNotes": "",
+								"ReleaseNotes": "",
+								"DisplayPlatformProperties": null,
+								"SkuDescription": "From the creators of Brothers – A Tale of Two Sons comes A Way Out, an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.\nWhat begins as a thrilling breakout quickly turns into an unpredictable, emotional adventure unlike anything seen or played before. \nA Way Out is an experience that must be played with two players. Each player controls one of the main characters, Leo and Vincent, in a reluctant alliance to break out of prison and gain their freedom.\nPlay the entire experience with your friends for free using the friends pass free trial feature. When you purchase the full game, you can invite any of your friends online regardless of whether or not they’ve purchased the game.  From the in-game menu, send them an invite, they’ll unlock the Free Trial, and then you’re ready to play the entire experience together. \n\nConditions and restrictions apply. See www.ea.com/games/a-way-out/disclaimers for details.\n\nTHIS PRODUCT IS CO-OP ONLY. ONLINE CO-OP REQUIRES PERSISTENT INTERNET CONNECTION, EA ACCOUNT AND ONE ONLINE FRIEND WITH: A WAY OUT ON SAME PLATFORM, OR FRIENDS PASS FREE TRIAL INSTALLED.",
+								"SkuTitle": "A Way Out",
+								"SkuButtonTitle": "",
+								"DeliveryDateOverlay": null,
+								"SkuDisplayRank": [],
+								"TextResources": null,
+								"Images": [],
+								"LegalText": {
+									"AdditionalLicenseTerms": "",
+									"Copyright": "",
+									"CopyrightUri": "",
+									"PrivacyPolicy": "",
+									"PrivacyPolicyUri": "https://www.ea.com/legal/privacy-policy ",
+									"Tou": "",
+									"TouUri": ""
+								},
+								"Language": "en-us",
+								"Markets": [
+									"US",
+									"DZ",
+									"AR",
+									"AU",
+									"AT",
+									"BH",
+									"BD",
+									"BE",
+									"BR",
+									"BG",
+									"CA",
+									"CL",
+									"CN",
+									"CO",
+									"CR",
+									"HR",
+									"CY",
+									"CZ",
+									"DK",
+									"EG",
+									"EE",
+									"FI",
+									"FR",
+									"DE",
+									"GR",
+									"GT",
+									"HK",
+									"HU",
+									"IS",
+									"IN",
+									"ID",
+									"IQ",
+									"IE",
+									"IL",
+									"IT",
+									"JP",
+									"JO",
+									"KZ",
+									"KE",
+									"KW",
+									"LV",
+									"LB",
+									"LI",
+									"LT",
+									"LU",
+									"MY",
+									"MT",
+									"MR",
+									"MX",
+									"MA",
+									"NL",
+									"NZ",
+									"NG",
+									"NO",
+									"OM",
+									"PK",
+									"PE",
+									"PH",
+									"PL",
+									"PT",
+									"QA",
+									"RO",
+									"RU",
+									"SA",
+									"RS",
+									"SG",
+									"SK",
+									"SI",
+									"ZA",
+									"KR",
+									"ES",
+									"SE",
+									"CH",
+									"TW",
+									"TH",
+									"TT",
+									"TN",
+									"TR",
+									"UA",
+									"AE",
+									"GB",
+									"VN",
+									"YE",
+									"LY",
+									"LK",
+									"UY",
+									"VE",
+									"AF",
+									"AX",
+									"AL",
+									"AS",
+									"AO",
+									"AI",
+									"AQ",
+									"AG",
+									"AM",
+									"AW",
+									"BO",
+									"BQ",
+									"BA",
+									"BW",
+									"BV",
+									"IO",
+									"BN",
+									"BF",
+									"BI",
+									"KH",
+									"CM",
+									"CV",
+									"KY",
+									"CF",
+									"TD",
+									"TL",
+									"DJ",
+									"DM",
+									"DO",
+									"EC",
+									"SV",
+									"GQ",
+									"ER",
+									"ET",
+									"FK",
+									"FO",
+									"FJ",
+									"GF",
+									"PF",
+									"TF",
+									"GA",
+									"GM",
+									"GE",
+									"GH",
+									"GI",
+									"GL",
+									"GD",
+									"GP",
+									"GU",
+									"GG",
+									"GN",
+									"GW",
+									"GY",
+									"HT",
+									"HM",
+									"HN",
+									"AZ",
+									"BS",
+									"BB",
+									"BY",
+									"BZ",
+									"BJ",
+									"BM",
+									"BT",
+									"KM",
+									"CG",
+									"CD",
+									"CK",
+									"CX",
+									"CC",
+									"CI",
+									"CW",
+									"JM",
+									"SJ",
+									"JE",
+									"KI",
+									"KG",
+									"LA",
+									"LS",
+									"LR",
+									"MO",
+									"MK",
+									"MG",
+									"MW",
+									"IM",
+									"MH",
+									"MQ",
+									"MU",
+									"YT",
+									"FM",
+									"MD",
+									"MN",
+									"MS",
+									"MZ",
+									"MM",
+									"NA",
+									"NR",
+									"NP",
+									"MV",
+									"ML",
+									"NC",
+									"NI",
+									"NE",
+									"NU",
+									"NF",
+									"PW",
+									"PS",
+									"PA",
+									"PG",
+									"PY",
+									"RE",
+									"RW",
+									"BL",
+									"MF",
+									"WS",
+									"ST",
+									"SN",
+									"MP",
+									"PN",
+									"SX",
+									"SB",
+									"SO",
+									"SC",
+									"SL",
+									"GS",
+									"SH",
+									"KN",
+									"LC",
+									"PM",
+									"VC",
+									"TJ",
+									"TZ",
+									"TG",
+									"TK",
+									"TO",
+									"TM",
+									"TC",
+									"TV",
+									"UM",
+									"UG",
+									"VI",
+									"VG",
+									"WF",
+									"EH",
+									"ZM",
+									"ZW",
+									"UZ",
+									"VU",
+									"SR",
+									"SZ",
+									"AD",
+									"MC",
+									"SM",
+									"ME",
+									"VA",
+									"NEUTRAL"
+								]
+							}
+						],
+						"MarketProperties": [
+							{
+								"FirstAvailableDate": "2018-03-23T00:00:00.0000000Z",
+								"SupportedLanguages": [
+									"en-us",
+									"da",
+									"tr",
+									"pl",
+									"sv",
+									"zh",
+									"ja",
+									"it",
+									"nb",
+									"en",
+									"es",
+									"ar",
+									"es-mx",
+									"pt",
+									"ko",
+									"fr-ca",
+									"ru",
+									"zh-cn",
+									"nl",
+									"fr",
+									"pt-br",
+									"fi",
+									"de"
+								],
+								"PackageIds": null,
+								"PIFilter": null,
+								"Markets": ["US"]
+							}
+						],
+						"ProductId": "BWVBNCMF22ZK",
+						"Properties": {
+							"EarlyAdopterEnrollmentUrl": null,
+							"FulfillmentData": {
+								"ProductId": "BWVBNCMF22ZK",
+								"WuBundleId": "6057e27d-970c-435e-bedf-b65a9cc11974",
+								"WuCategoryId": "67828f56-9fe6-45df-ac7c-072be90f6989",
+								"PackageFamilyName": "ElectronicArtsMobile.AWayOut_q5ha1ztykcgvj",
+								"SkuId": "0004",
+								"Content": null,
+								"PackageFeatures": null
+							},
+							"FulfillmentType": "XVC",
+							"FulfillmentPluginId": null,
+							"HasThirdPartyIAPs": false,
+							"LastUpdateDate": "2022-10-19T19:55:00.0000000Z",
+							"HardwareProperties": {
+								"MinimumHardware": [],
+								"RecommendedHardware": [],
+								"MinimumProcessor": "",
+								"RecommendedProcessor": "",
+								"MinimumGraphics": "",
+								"RecommendedGraphics": ""
+							},
+							"HardwareRequirements": [],
+							"HardwareWarningList": [],
+							"InstallationTerms": "InstallationTermsRestrictiveXbox",
+							"Packages": [
+								{
+									"Applications": [],
+									"Architectures": ["x64"],
+									"Capabilities": [],
+									"DeviceCapabilities": [],
+									"ExperienceIds": [],
+									"FrameworkDependencies": [],
+									"HardwareDependencies": [],
+									"HardwareRequirements": [],
+									"Hash": "",
+									"HashAlgorithm": "",
+									"IsStreamingApp": false,
+									"Languages": [],
+									"MaxDownloadSizeInBytes": 18723897344,
+									"MaxInstallSizeInBytes": 0,
+									"PackageFormat": "XVC",
+									"PackageFamilyName": null,
+									"MainPackageFamilyNameForDlc": null,
+									"PackageFullName": "",
+									"PackageId": "51240842-cf3a-49f5-92d4-38929702b008",
+									"ContentId": "51240842-cf3a-49f5-92d4-38929702b008",
+									"KeyId": "2dd52a14-d343-4de9-b484-af291633db3a",
+									"PackageRank": 50000,
+									"PackageUri": "https://productingestionbin1.blob.core.windows.net",
+									"PlatformDependencies": [
+										{
+											"MaxTested": 0,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									],
+									"PlatformDependencyXmlBlob": "",
+									"ResourceId": "",
+									"Version": "0",
+									"PackageDownloadUris": [
+										{
+											"Rank": 0,
+											"Uri": "https://productingestionbin1.blob.core.windows.net"
+										},
+										{
+											"Rank": 1,
+											"Uri": "https://productingestionbin1.blob.core.windows.net"
+										}
+									],
+									"DriverDependencies": [],
+									"FulfillmentData": {
+										"ProductId": "BWVBNCMF22ZK",
+										"WuBundleId": "6057e27d-970c-435e-bedf-b65a9cc11974",
+										"WuCategoryId": "67828f56-9fe6-45df-ac7c-072be90f6989",
+										"PackageFamilyName": "ElectronicArtsMobile.AWayOut_q5ha1ztykcgvj",
+										"SkuId": "0004",
+										"Content": null,
+										"PackageFeatures": null
+									}
+								}
+							],
+							"VersionString": "",
+							"SkuDisplayGroupIds": null,
+							"XboxXPA": false,
+							"BundledSkus": [],
+							"IsRepurchasable": false,
+							"SkuDisplayRank": 1,
+							"DisplayPhysicalStoreInventory": null,
+							"VisibleToB2BServiceIds": [],
+							"AdditionalIdentifiers": [],
+							"IsTrial": true,
+							"IsPreOrder": false,
+							"IsBundle": false
+						},
+						"SkuASchema": "Sku;3",
+						"SkuBSchema": "SkuGame;1",
+						"SkuId": "0004",
+						"SkuType": "trial",
+						"RecurrencePolicy": null,
+						"SubscriptionPolicyId": null
+					},
+					"Availabilities": [
+						{
+							"Actions": ["Details", "Fulfill", "Purchase"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9T0PJGFBJN0W",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "9998-12-30T00:00:00.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2018-03-22T23:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"PIFilter": {
+									"ExclusionProperties": [],
+									"InclusionProperties": []
+								},
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "TaxesNotIncluded",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {},
+							"SkuId": "0004",
+							"DisplayRank": 0,
+							"RemediationRequired": false
+						},
+						{
+							"Actions": ["License", "Details"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9RKBKHGPSSLN",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "9998-12-30T00:00:00.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "2018-03-22T23:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {},
+							"SkuId": "0004",
+							"DisplayRank": 1,
+							"RemediationRequired": false
+						},
+						{
+							"Actions": ["License", "Details"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9RRTTKT4H6RR",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Desktop"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Mobile"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Team"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Holographic"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.8828080"
+										},
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Core"
+										}
+									]
+								},
+								"EndDate": "9998-12-30T00:00:00.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "1753-01-01T00:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {},
+							"SkuId": "0004",
+							"DisplayRank": 2,
+							"RemediationRequired": false
+						}
+					]
+				},
+				{
+					"Sku": {
+						"LastModifiedDate": "2022-10-19T19:55:00.7089277Z",
+						"LocalizedProperties": [
+							{
+								"Contributors": [],
+								"Features": [],
+								"MinimumNotes": "",
+								"RecommendedNotes": "",
+								"ReleaseNotes": "",
+								"DisplayPlatformProperties": null,
+								"SkuDescription": "From the creators of Brothers – A Tale of Two Sons comes A Way Out, an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.\nWhat begins as a thrilling breakout quickly turns into an unpredictable, emotional adventure unlike anything seen or played before. \nA Way Out is an experience that must be played with two players. Each player controls one of the main characters, Leo and Vincent, in a reluctant alliance to break out of prison and gain their freedom.\nPlay the entire experience with your friends for free using the friends pass free trial feature. When you purchase the full game, you can invite any of your friends online regardless of whether or not they’ve purchased the game.  From the in-game menu, send them an invite, they’ll unlock the Free Trial, and then you’re ready to play the entire experience together. \n\nConditions and restrictions apply. See www.ea.com/games/a-way-out/disclaimers for details.\n\nTHIS PRODUCT IS CO-OP ONLY. ONLINE CO-OP REQUIRES PERSISTENT INTERNET CONNECTION, EA ACCOUNT AND ONE ONLINE FRIEND WITH: A WAY OUT ON SAME PLATFORM, OR FRIENDS PASS FREE TRIAL INSTALLED.",
+								"SkuTitle": "A Way Out",
+								"SkuButtonTitle": "",
+								"DeliveryDateOverlay": null,
+								"SkuDisplayRank": [],
+								"TextResources": null,
+								"Images": [],
+								"LegalText": {
+									"AdditionalLicenseTerms": "",
+									"Copyright": "",
+									"CopyrightUri": "",
+									"PrivacyPolicy": "",
+									"PrivacyPolicyUri": "https://www.ea.com/legal/privacy-policy ",
+									"Tou": "",
+									"TouUri": ""
+								},
+								"Language": "en-us",
+								"Markets": [
+									"US",
+									"DZ",
+									"AR",
+									"AU",
+									"AT",
+									"BH",
+									"BD",
+									"BE",
+									"BR",
+									"BG",
+									"CA",
+									"CL",
+									"CN",
+									"CO",
+									"CR",
+									"HR",
+									"CY",
+									"CZ",
+									"DK",
+									"EG",
+									"EE",
+									"FI",
+									"FR",
+									"DE",
+									"GR",
+									"GT",
+									"HK",
+									"HU",
+									"IS",
+									"IN",
+									"ID",
+									"IQ",
+									"IE",
+									"IL",
+									"IT",
+									"JP",
+									"JO",
+									"KZ",
+									"KE",
+									"KW",
+									"LV",
+									"LB",
+									"LI",
+									"LT",
+									"LU",
+									"MY",
+									"MT",
+									"MR",
+									"MX",
+									"MA",
+									"NL",
+									"NZ",
+									"NG",
+									"NO",
+									"OM",
+									"PK",
+									"PE",
+									"PH",
+									"PL",
+									"PT",
+									"QA",
+									"RO",
+									"RU",
+									"SA",
+									"RS",
+									"SG",
+									"SK",
+									"SI",
+									"ZA",
+									"KR",
+									"ES",
+									"SE",
+									"CH",
+									"TW",
+									"TH",
+									"TT",
+									"TN",
+									"TR",
+									"UA",
+									"AE",
+									"GB",
+									"VN",
+									"YE",
+									"LY",
+									"LK",
+									"UY",
+									"VE",
+									"AF",
+									"AX",
+									"AL",
+									"AS",
+									"AO",
+									"AI",
+									"AQ",
+									"AG",
+									"AM",
+									"AW",
+									"BO",
+									"BQ",
+									"BA",
+									"BW",
+									"BV",
+									"IO",
+									"BN",
+									"BF",
+									"BI",
+									"KH",
+									"CM",
+									"CV",
+									"KY",
+									"CF",
+									"TD",
+									"TL",
+									"DJ",
+									"DM",
+									"DO",
+									"EC",
+									"SV",
+									"GQ",
+									"ER",
+									"ET",
+									"FK",
+									"FO",
+									"FJ",
+									"GF",
+									"PF",
+									"TF",
+									"GA",
+									"GM",
+									"GE",
+									"GH",
+									"GI",
+									"GL",
+									"GD",
+									"GP",
+									"GU",
+									"GG",
+									"GN",
+									"GW",
+									"GY",
+									"HT",
+									"HM",
+									"HN",
+									"AZ",
+									"BS",
+									"BB",
+									"BY",
+									"BZ",
+									"BJ",
+									"BM",
+									"BT",
+									"KM",
+									"CG",
+									"CD",
+									"CK",
+									"CX",
+									"CC",
+									"CI",
+									"CW",
+									"JM",
+									"SJ",
+									"JE",
+									"KI",
+									"KG",
+									"LA",
+									"LS",
+									"LR",
+									"MO",
+									"MK",
+									"MG",
+									"MW",
+									"IM",
+									"MH",
+									"MQ",
+									"MU",
+									"YT",
+									"FM",
+									"MD",
+									"MN",
+									"MS",
+									"MZ",
+									"MM",
+									"NA",
+									"NR",
+									"NP",
+									"MV",
+									"ML",
+									"NC",
+									"NI",
+									"NE",
+									"NU",
+									"NF",
+									"PW",
+									"PS",
+									"PA",
+									"PG",
+									"PY",
+									"RE",
+									"RW",
+									"BL",
+									"MF",
+									"WS",
+									"ST",
+									"SN",
+									"MP",
+									"PN",
+									"SX",
+									"SB",
+									"SO",
+									"SC",
+									"SL",
+									"GS",
+									"SH",
+									"KN",
+									"LC",
+									"PM",
+									"VC",
+									"TJ",
+									"TZ",
+									"TG",
+									"TK",
+									"TO",
+									"TM",
+									"TC",
+									"TV",
+									"UM",
+									"UG",
+									"VI",
+									"VG",
+									"WF",
+									"EH",
+									"ZM",
+									"ZW",
+									"UZ",
+									"VU",
+									"SR",
+									"SZ",
+									"AD",
+									"MC",
+									"SM",
+									"ME",
+									"VA",
+									"NEUTRAL"
+								]
+							}
+						],
+						"MarketProperties": [
+							{
+								"FirstAvailableDate": "2018-03-23T00:00:00.0000000Z",
+								"SupportedLanguages": [
+									"en-us",
+									"da",
+									"tr",
+									"pl",
+									"sv",
+									"zh",
+									"ja",
+									"it",
+									"nb",
+									"en",
+									"es",
+									"ar",
+									"es-mx",
+									"pt",
+									"ko",
+									"fr-ca",
+									"ru",
+									"zh-cn",
+									"nl",
+									"fr",
+									"pt-br",
+									"fi",
+									"de"
+								],
+								"PackageIds": null,
+								"PIFilter": null,
+								"Markets": ["US"]
+							}
+						],
+						"ProductId": "BWVBNCMF22ZK",
+						"Properties": {
+							"EarlyAdopterEnrollmentUrl": null,
+							"FulfillmentData": {
+								"ProductId": "BWVBNCMF22ZK",
+								"WuBundleId": "6057e27d-970c-435e-bedf-b65a9cc11974",
+								"WuCategoryId": "67828f56-9fe6-45df-ac7c-072be90f6989",
+								"PackageFamilyName": "ElectronicArtsMobile.AWayOut_q5ha1ztykcgvj",
+								"SkuId": "0003",
+								"Content": null,
+								"PackageFeatures": null
+							},
+							"FulfillmentType": "XVC",
+							"FulfillmentPluginId": null,
+							"HasThirdPartyIAPs": false,
+							"LastUpdateDate": "2022-10-19T19:55:00.0000000Z",
+							"HardwareProperties": {
+								"MinimumHardware": [],
+								"RecommendedHardware": [],
+								"MinimumProcessor": "",
+								"RecommendedProcessor": "",
+								"MinimumGraphics": "",
+								"RecommendedGraphics": ""
+							},
+							"HardwareRequirements": [],
+							"HardwareWarningList": [],
+							"InstallationTerms": "InstallationTermsRestrictiveXbox",
+							"Packages": [
+								{
+									"Applications": [],
+									"Architectures": ["x64"],
+									"Capabilities": [],
+									"DeviceCapabilities": [],
+									"ExperienceIds": [],
+									"FrameworkDependencies": [],
+									"HardwareDependencies": [],
+									"HardwareRequirements": [],
+									"Hash": "",
+									"HashAlgorithm": "",
+									"IsStreamingApp": false,
+									"Languages": [],
+									"MaxDownloadSizeInBytes": 18723897344,
+									"MaxInstallSizeInBytes": 0,
+									"PackageFormat": "XVC",
+									"PackageFamilyName": null,
+									"MainPackageFamilyNameForDlc": null,
+									"PackageFullName": "",
+									"PackageId": "51240842-cf3a-49f5-92d4-38929702b008",
+									"ContentId": "51240842-cf3a-49f5-92d4-38929702b008",
+									"KeyId": "2dd52a14-d343-4de9-b484-af291633db3a",
+									"PackageRank": 50000,
+									"PackageUri": "https://productingestionbin1.blob.core.windows.net",
+									"PlatformDependencies": [
+										{
+											"MaxTested": 0,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									],
+									"PlatformDependencyXmlBlob": "",
+									"ResourceId": "",
+									"Version": "0",
+									"PackageDownloadUris": [
+										{
+											"Rank": 0,
+											"Uri": "https://productingestionbin1.blob.core.windows.net"
+										},
+										{
+											"Rank": 1,
+											"Uri": "https://productingestionbin1.blob.core.windows.net"
+										}
+									],
+									"DriverDependencies": [],
+									"FulfillmentData": {
+										"ProductId": "BWVBNCMF22ZK",
+										"WuBundleId": "6057e27d-970c-435e-bedf-b65a9cc11974",
+										"WuCategoryId": "67828f56-9fe6-45df-ac7c-072be90f6989",
+										"PackageFamilyName": "ElectronicArtsMobile.AWayOut_q5ha1ztykcgvj",
+										"SkuId": "0003",
+										"Content": null,
+										"PackageFeatures": null
+									}
+								}
+							],
+							"VersionString": "",
+							"SkuDisplayGroupIds": null,
+							"XboxXPA": false,
+							"BundledSkus": [],
+							"IsRepurchasable": false,
+							"SkuDisplayRank": 2,
+							"DisplayPhysicalStoreInventory": null,
+							"VisibleToB2BServiceIds": [],
+							"AdditionalIdentifiers": [],
+							"IsTrial": false,
+							"IsPreOrder": true,
+							"IsBundle": false
+						},
+						"SkuASchema": "Sku;3",
+						"SkuBSchema": "SkuGame;1",
+						"SkuId": "0003",
+						"SkuType": "full",
+						"RecurrencePolicy": null,
+						"SubscriptionPolicyId": null
+					},
+					"Availabilities": [
+						{
+							"Actions": ["Details", "Redeem"],
+							"AvailabilityASchema": "Availability;3",
+							"AvailabilityBSchema": "AvailabilityGame;1",
+							"AvailabilityId": "9SP6F4TGDBWZ",
+							"Conditions": {
+								"ClientConditions": {
+									"AllowedPlatforms": [
+										{
+											"MaxVersion": 2147483647,
+											"MinVersion": 0,
+											"PlatformName": "Windows.Xbox"
+										}
+									]
+								},
+								"EndDate": "9998-12-30T00:00:00.0000000Z",
+								"ResourceSetIds": ["1"],
+								"StartDate": "1753-01-01T00:00:00.0000000Z"
+							},
+							"LastModifiedDate": "2022-10-19T19:56:09.8311558Z",
+							"Markets": ["US"],
+							"OrderManagementData": {
+								"GrantedEntitlementKeys": [],
+								"PIFilter": {
+									"ExclusionProperties": [],
+									"InclusionProperties": []
+								},
+								"Price": {
+									"CurrencyCode": "USD",
+									"IsPIRequired": false,
+									"ListPrice": 0,
+									"MSRP": 0,
+									"TaxType": "TaxesNotIncluded",
+									"WholesaleCurrencyCode": ""
+								}
+							},
+							"Properties": {},
+							"SkuId": "0003",
+							"DisplayRank": 0,
+							"RemediationRequired": false
+						}
+					]
+				}
+			]
+		}
+	]
+}
