@@ -26,7 +26,7 @@ for game in GamepassAllGamesJSON.json():
 
 # print(GamepassAllGamesList)
 idsString = ",".join(GamepassAllGamesList)
-GamepassAllGamesFullData = f"https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds={idsString}&market=US&languages=en-us&MS-CV=DGU1mcuYo0WMMp"
+GamepassAllGamesFullData = f"https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds={idsString}&market=ES&languages=en-us&MS-CV=DGU1mcuYo0WMMp"
 
 # print(GamepassAllGamesFullData)
 GamepassAllGamesFullDataJSON = requests.get(GamepassAllGamesFullData).json()
@@ -34,3 +34,4 @@ GamepassAllGamesFullDataJSON = requests.get(GamepassAllGamesFullData).json()
 # print(GamepassAllGamesFullDataJSON)
 for game in GamepassAllGamesFullDataJSON['Products']:
     print(game['LocalizedProperties'][0]['ProductTitle'].replace('®','').replace('™',''))
+    
