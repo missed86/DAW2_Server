@@ -124,4 +124,40 @@
         }
         return $resultado;
     }
+
+    // Ejercicio 16
+    function decimalBinario($num) {
+        $resultado = "";
+        while ($num>0) {
+            $resultado = $num % 2 . $resultado;
+            $num = intdiv($num,2);
+        }
+        return $resultado;
+    }
+
+    // Ejercicio 17
+    function baseConversion($num, $baseinput, $baseoutput) {
+        $char= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        // Conversión a Decimal
+        if (gettype($num)== "integer") {
+            $num = strval($num);
+        }
+        $decimal = 0;
+        $posicion = 0;
+        for ($i=strlen($num)-1; $i >= 0 ; $i--) {
+            if (array_search($num[$i], str_split($char))<$baseinput){
+                $decimal += array_search($num[$i], str_split($char))*potencia($baseinput,$posicion);
+                $posicion++;
+            } else {
+                throw new Exception("Error de base");
+            }
+        }
+        // Conversión Decimal a Base X
+        $resultado = "";
+        while ($decimal>0) {
+            $resultado = $char[$decimal % $baseoutput] . $resultado;
+            $decimal = intdiv($decimal,$baseoutput);
+        }
+        return $resultado;
+    }
 ?>
