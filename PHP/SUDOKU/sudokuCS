@@ -1,0 +1,193 @@
+using System;
+
+namespace Sudoku_Resolver
+{
+    class Program
+    {
+        //Funcion SudokuRun, next y previous, devuelve x, y
+
+        public static void SudokuRun(int y, int x)
+        {
+            
+            if (x==8)
+            {
+                
+            }
+            
+        }
+        static void Main(string[] args)
+        {
+            int[,] sudoku1 = new int[,] {
+                { 5, 3, 0, 0, 7, 0, 0, 0, 0 },
+                { 6, 0, 0, 1, 9, 5, 0, 0, 0 },
+                { 0, 9, 8, 0, 0, 0, 0, 6, 0 },
+                { 8, 0, 0, 0, 6, 0, 0, 0, 3 },
+                { 4, 0, 0, 8, 0, 3, 0, 0, 1 },
+                { 7, 0, 0, 0, 2, 0, 0, 0, 6 },
+                { 0, 6, 0, 0, 0, 0, 2, 8, 0 },
+                { 0, 0, 0, 4, 1, 9, 0, 0, 5 },
+                { 0, 0, 0, 0, 8, 0, 0, 7, 9 },
+                };
+            /*int[,] sudoku1 = new int[,] {
+                { 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+                { 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+                { 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+                { 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+                { 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+                { 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+                { 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+                { 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+                { 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+                };*/
+            int[,] resolver = new int[9, 9];
+
+            int x = 0;
+            int y = 0;
+            int iteraciones = 0;
+
+            for (int a = 0; a < sudoku1.GetLength(0); a++)
+            {
+                for (int b = 0; b < sudoku1.GetLength(1); b++)
+                {
+                    resolver[a,b] = sudoku1[a, b];
+                }
+            }
+
+            // Recorrer sudoku
+            for (y = 0; y < sudoku1.GetLength(0); y++)
+            {
+                for (x = 0; x < sudoku1.GetLength(1);)
+                {
+                    //Console.WriteLine($"Coords: {y},{x} | Valor: {resolver[y, x]}");
+                    //Console.WriteLine($"Y: {y}, X: {x}");
+                    if (sudoku1[y, x] == 0) // solo modificar campos vacios
+                    {
+                        bool error = false;
+                        
+                        resolver[y, x]++;
+                        
+
+                        if (resolver[y, x] > 9)
+                        {
+                            error = true;
+                        }
+
+                        //Buscando repetidos en eje X
+                        if (!error)
+                        {
+                            for (int posX = 0; posX < sudoku1.GetLength(0); posX++)
+                            {
+                                if (x != posX && resolver[y, posX] == resolver[y, x])
+                                {
+                                    error = true;
+                                    break;
+                                }
+
+                            }
+                        }
+                        //Buscando repetidos en eje Y
+                        if (!error)
+                        {
+                            for (int posY = 0; posY < sudoku1.GetLength(1); posY++)
+                            {
+                                if (y != posY && resolver[posY, x] == resolver[y, x])
+                                {
+                                    error = true;
+                                    break;
+                                }
+
+                            }
+                        }
+                        //Buscando repetidos en bloques de 3x3
+
+                        if (!error)
+                        {
+                            int bloqueX = (x / 3);
+                            int bloqueY = (y / 3);
+
+                            for (int posY = 0; posY < 3; posY++)
+                            {
+                                for (int posX = 0; posX < 3; posX++)
+                                {
+                                    if ((bloqueY * 3 + posY != y && bloqueX * 3 + posX != x))
+                                    {
+                                        if (resolver[(bloqueY*3 + posY), (bloqueX * 3 + posX)] == resolver[y, x])
+                                        {
+                                            error = true;
+                                            break;
+
+                                        }
+                                    }
+                                    
+                                }
+                            }
+                        }
+                        if (error)
+                        {
+                            
+                            if (resolver[y, x] > 9)
+                            {
+                                resolver[y, x] = 0; 
+                                do
+                                {
+                                    if (x == 0)
+                                    {
+                                        y--; x = 8;
+                                    }
+                                    else
+                                    {
+                                        x--;
+                                    }
+                                    //resolver[y, x]++;
+                                } while (sudoku1[y, x] != 0);
+
+                                
+                               //Console.WriteLine($"Coords: {y},{x} | Valor: {resolver[y, x]}");
+                            }
+                        }
+                        else
+                        {
+                            x++;
+                        }
+                        iteraciones++;
+                    }
+                    else
+                    {
+                        x++;
+                    }
+                }
+
+                /*for (y = 0; y < resolver.GetLength(0); y++)
+                {
+                    for (x = 0; x < resolver.GetLength(1); x++)
+                    {
+                        Console.Write(resolver[y, x]);
+                        Console.Write(" ");
+                    }
+                    Console.WriteLine();
+                }
+                Console.WriteLine();
+                Console.WriteLine();*/
+                //Console.ReadLine();
+            }
+
+            // Mostrar sudoku
+            Console.WriteLine("Sudoku Resuelto!\n");
+            Console.WriteLine("-------------------------------------");
+            for (y = 0; y < resolver.GetLength(0); y++)
+            {
+                Console.Write("|");
+                for (x = 0; x < resolver.GetLength(1); x++)
+                {
+                    Console.Write(" ");
+                    Console.Write(resolver[y, x]+" |");
+                    Console.Write("");
+                }
+                Console.WriteLine("");
+                Console.WriteLine("-------------------------------------");
+            }
+                Console.WriteLine($"\nNumero de iteraciones: {iteraciones}");
+
+        }
+    }
+}
