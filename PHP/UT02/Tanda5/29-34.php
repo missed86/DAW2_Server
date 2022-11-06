@@ -11,28 +11,36 @@
 </head>
 <body>
 <h1>Ejercicio 29</h1>
-<p>generaArrayBiInt: Genera un array de tamaño n x m con números aleatorios cuyo intervalo (mínimo y máximo) se indica como parámetro.<p>
+<p><b>generaArrayBiInt</b>: Genera un array de tamaño n x m con números aleatorios cuyo intervalo (mínimo y máximo) se indica como parámetro.</p>
 
     <?php
         $array = generaArrayBiInt(10,10,0,20);
         printBiArray($array)
     ?>
 <h1>Ejercicio 30</h1>
-<p>filaDeArrayBiInt: Devuelve la fila i-ésima del array que se pasa como parámetro.<p>
+<p><b>filaDeArrayBiInt</b>: Devuelve la fila i-ésima del array que se pasa como parámetro.</p>
 
     <?php
         printArray(filaDeArrayBiInt($array,0));
     ?>
 
 <h1>Ejercicio 31</h1>
-<p>columnaDeArrayBiInt: Devuelve la columna j-ésima del array que se pasa como parámetro.<p>
+<p><b>columnaDeArrayBiInt</b>: Devuelve la columna j-ésima del array que se pasa como parámetro.</p>
 
     <?php
         printArray(columnaDeArrayBiInt($array,0));
     ?>
 <h1>Ejercicio 32</h1>
-<p>coordenadasEnArrayBiInt: Devuelve la fila y la columna (en un array con dos elementos) de la primera ocurrencia de un número dentro de un array bidimensional. 
-    Si el número no se encuentra en el array, la función devuelve el array {-1, -1}.<p>
+<p><b>coordenadasEnArrayBiInt</b>: Devuelve la fila y la columna (en un array con dos elementos) de la primera ocurrencia de un número dentro de un array bidimensional. 
+    Si el número no se encuentra en el array, la función devuelve el array {-1, -1}.</p>
+
+    <?php
+        print_r(coordenadasEnArrayBiInt($array, 75));
+    ?>
+
+<h1>Ejercicio 33</h1>
+<p><b>esPuntoDeSilla</b>: Dice si un número es o no punto de silla, es decir, 
+mínimo en su fila y máximo en su columna.</p>
 
     <?php
         print_r(coordenadasEnArrayBiInt($array, 75));
