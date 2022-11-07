@@ -122,6 +122,7 @@ function resuelveSudoku($sudoku1)
             }
         }
     }
+    echo "Iteraciones: $iteraciones";
     return $resolver;
 }
 
