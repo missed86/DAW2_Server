@@ -121,7 +121,7 @@ if(isset($_POST["addForm"])) {
             </select>
                 <p>
                 <p><input type="submit" name="addForm" value="Enviar">
-                <span>Prueba<?php if (isset($addMsg)) echo $addMsg?></span></p>
+                <span><?php if (isset($addMsg)) echo $addMsg?></span></p>
             </form>
             </fieldset>
           </div>
