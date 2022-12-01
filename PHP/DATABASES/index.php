@@ -12,17 +12,15 @@ if(isset($_POST["addForm"])) {
     'familia' => $_POST["addFamilia"]
   ];
 
-  $sql = <<<SQL
-            INSERT INTO producto ('cod', 'nombre_corto', 'descripcion', 'PVP', 'familia')
-            VALUES (:cod, :nombre_corto, :descripcion, :PVP, :familia);
-          SQL;
-  $resultado = $dwes -> prepare($sql) -> execute($data);
-  if($resultado) {
+  $sql = "INSERT INTO producto (cod, nombre_corto, descripcion, PVP, familia) 
+  VALUES (:cod, :nombre_corto, :descripcion, :PVP, :familia);";
+  
+  try{
+    $resultado = $dwes -> prepare($sql) -> execute($data);
     $addMsg = "Se ha insertado correctamente";
-  } else {
-    $addMsg = "Ha habido un error";
+  } catch (PDOException $error) {
+    $addMsg = $error->getMessage();
   }
-
 
 }
 
@@ -121,7 +119,7 @@ if(isset($_POST["addForm"])) {
             </select>
                 <p>
                 <p><input type="submit" name="addForm" value="Enviar">
-                <span>Prueba<?php if (isset($addMsg)) echo $addMsg?></span></p>
+                <span><?php if (isset($addMsg)) echo $addMsg?></span></p>
             </form>
             </fieldset>
           </div>
