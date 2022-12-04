@@ -75,7 +75,7 @@ if (isset($_POST["addForm"])) {
           $row = $resultado->fetch(PDO::FETCH_ASSOC);
           echo "<form id='form_delete' action='delete.php' method='POST'>
                   <input type='hidden' name='delCod' value='${row['cod']}'>
-                  <label>Código: </label><input type='text' name='cod' disabled value='${row['cod']}'><br>
+                  <p><label>Código: </label><input type='text' name='cod' disabled value='${row['cod']}'></p>
                   <p><label>Nombre: </label><input type='text' name='nombre_corto' disabled value='${row['nombre_corto']}'><p>
                   <p><label>Descripción: </label><textarea name='descripcion' disabled>${row['descripcion']}</textarea><p>
                   <p><label>PVP: </label><input type='text' name='PVP' disabled value='${row['PVP']}'><p>
