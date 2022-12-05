@@ -93,8 +93,11 @@ if (isset($_POST["addForm"])) {
               $row = $resultado->fetch(PDO::FETCH_ASSOC);
             }
             echo "</select>";
-            echo "<p><input type='submit' name='delete' value='Borrar registro'></p>";
+            echo "
+            <br><input type='button' id='mainform_edit_btn' value='Editar registro'><input id='mainform_del_btn' type='submit' name='delete' value='Borrar registro'>
+            ";
             echo "</form>";
+            
           }
         }
       }
@@ -169,6 +172,26 @@ if (isset($_POST["addForm"])) {
     }
     ?>
   </div>
+  <script>
+    const edit_btn = document.getElementById('mainform_edit_btn')
+
+    edit_btn.onclick =()=> {
+      const selector = document.querySelectorAll('form *:not([name="cod"])')
+      const form = document.getElementById('form_delete')
+      const deletebtn = document.getElementById('mainform_del_btn')
+      const editbtn = document.getElementById('mainform_edit_btn')
+      selector.forEach((e)=>{
+        e.disabled= false;
+        form.setAttribute('action', 'update.php')
+        editbtn.style.display = 'none'
+        deletebtn.value = 'Actualizar registro'
+        deletebtn.setAttribute('name','update')
+      })
+    }
+
+
+  </script>
+
 </body>
 
 </html>
