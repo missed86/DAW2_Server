@@ -12,4 +12,4 @@ capital = float(input("Cuantos pesos tienes? "))
 interes = float(input("Tasa de interés: "))
 annos = int(input("A cuantos años? "))
 
-print(monto(capital,interes,annos))
+print(monto(capital, interes, annos))
