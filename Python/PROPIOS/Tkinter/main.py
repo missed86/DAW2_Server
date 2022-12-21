@@ -1,21 +1,21 @@
-import tkinter
-import pyglet
-pyglet.options['search_local_libs'] = True
+from tkinter import *
 
-ventana = tkinter.Tk()
-ventana.title("Reproductor de video")
-ventana.geometry("400x300")
+root = Tk()
 
-etiqueta = tkinter.Label(ventana, text= "Hola Mundo")
-etiqueta.pack()
+etiqueta = Label(root, text= "Hola mundo")
+etiqueta.grid(row=0, column=0)
+etiqueta2 = Label(root, text= "Hola mundo")
+etiqueta2.grid(row=0, column=1)
 
-def play_video(file_name):
-    video = pyglet.media.load(file_name)
-    player = pyglet.media.Player()
-    player.queue(video)
-    player.play()
+marco_principal = Frame()
+marco_principal.config(width='800', height='600', bg='grey')
 
-play_button = tkinter.Button(ventana, text="Reproducir", command=lambda: play_video("video.mp4"))
-play_button.pack()
+def click_boton():
+    text = Label(root, text="Me has pulsado").grid()
 
-ventana.mainloop()
+# etiqueta.pack()
+marco_principal.grid(row=1, columnspan=2)
+boton1 = Button(marco_principal, text="Pulsame", command=click_boton)
+boton1.pack()
+
+root.mainloop()
