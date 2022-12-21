@@ -34,8 +34,8 @@
 # amigos quieren saludar, les pregunte los nombres de  esos amigos/as, y los salude.
 
 num_amigos = int(input('Cuantos amigos tienes? '))
-amigos = []
-for name in range(0,num_amigos):
-    amigos.append(input("Nombre de tu amigo: "))
-for name in amigos:
-    print("Hola "+name)
+friends = []
+for friend in range(0,num_amigos):
+    friends.append(input("Nombre de tu amigo: "))
+for friend in friends:
+    print("Hi "+friend)
